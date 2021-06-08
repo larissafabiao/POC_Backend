@@ -53,7 +53,7 @@ Para instalar o bundler executando o seguinte comando no terminal:
 ```
 gem install bundler
 ```
-Para baixar as dependências de pacote deste projeto abra a pasta "**[raiz](https://github.com/larissafabiao/POC_Backend/edit/master/)**" no terminal e execute o comando:
+Para baixar as dependências de pacote deste projeto abra a pasta do projeto no terminal e execute o comando:
 ```
 bundler install
 ```
