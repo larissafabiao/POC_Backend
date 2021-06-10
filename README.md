@@ -1,6 +1,6 @@
 # POC_Backend
 
-POC desenvolvida para a palestra **Segurança e Qualidade podem andar juntas?** ministrada no evento **TDC Connections 2021** 
+POC desenvolvida para a palestra **Segurança e Qualidade podem andar juntas?** ministrada no evento **TDC Connections 2021**. Os slides usados na palestra estão disponíveis [aqui](https://github.com/larissafabiao/POC_Backend/blob/master/palestra%20TDC%20Connections.pdf).
 
 Neste projeto estamos utilizando o **Ruby 2.7.2** e os seguintes pacotes:
 ```
